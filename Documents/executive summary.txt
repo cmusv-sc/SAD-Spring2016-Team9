@@ -1,0 +1,11 @@
+Major scenairo includes:
+1. Main Page
+2. Login
+3. User customized feeds
+4. Suggestions
+5. Comment
+6. Workflow Forums
+7. Search
+8. User profile
+9. Friend connection
+10. Mail Detail

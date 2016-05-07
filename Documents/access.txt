@@ -1,0 +1,3 @@
+First setup environment following "installation document".
+IP localhost:9234
+username and password can be configured during a new user registeration scenario.
